@@ -1,0 +1,23 @@
+a{ color: black;}
+h1{ font-size:45px;
+text-align: center;
+border-bottom:1px black solid;
+padding:20px;
+margin:0;}
+ul{ font-size:20px;
+border-right:1px solid gray;
+width:130;
+margin:0;
+padding:20px;}
+li{
+  padding: 5px;
+}
+#article{
+padding-left:40px;
+}
+#grid{
+display:grid;
+grid-template-columns: 150px 1fr;
+padding:10px;
+color: black;
+}
